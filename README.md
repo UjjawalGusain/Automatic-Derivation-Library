@@ -18,19 +18,21 @@ This project implements an automatic differentiation library using dual numbers 
 ## Installation
 1. Clone the repository
 
-    `
-        git clone https://github.com/your-repo/autodiff.git
-    `
+    ```
+    git clone https://github.com/UjjawalGusain/Automatic-Derivation-Library.git
+    ```
 
-    `
-        cd autodiff
-    `
+    ```
+    cd Automatic-Derivation-Library
+    ```
 
 2. Ensure `AutoDiff.hpp` is present in the project directory. 
 
 ## Compilation
 To compile the project, use a C++ compiler:
-`g++ -o examples/main examples/main.cpp -Iinclude -std=c++17`
+```
+g++ -o examples/main examples/main.cpp -Iinclude -std=c++17
+```
 
 ## Functions available in the DualNumber class(Can be used for differentiation function):
 1. Arithemtic: +, -, /, *
