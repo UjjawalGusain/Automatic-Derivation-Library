@@ -1,0 +1,8 @@
+Average Errors:
+pow(x, 3) + 2x + 9: 1.0901e-09
+sin(x) + cos(x): 4.35824e-11
+tan(x) - x^2: 1.81822e-10
+pow(x, 4) - 3 * pow(x, 2) + 7: 1.77537e-09
+sec(x) + csc(x): 1.40048e-09
+x * sin(x) + cos(x) / x: 1.04556e-10
+sin(x) + cos(x): 4.35824e-11
